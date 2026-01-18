@@ -123,6 +123,6 @@ I'm always open to discussing frontend architecture, performance optimization, o
 
 **"Building experiences that are fast, scalable, and convert"**
 
-⭐️ From [Krishna Kumar](https://github.com/krishna9199)
+⭐️ From [Krishna Kumar](https://github.com/krishnaacc123)
 
 </div>
