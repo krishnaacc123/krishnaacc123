@@ -82,6 +82,21 @@ const skills = {
 
 ---
 
+### 🎨 Featured Projects
+
+#### **[WorkSpan](https://workspan.netlify.app/)** - Focus Time Tracker
+A minimalist productivity app with a sleek retro UI that helps you track and analyze your work focus sessions.
+
+**Key Features:**
+- ⏱️ Simple focus time logging with intuitive interface
+- 📊 Insights dashboard to visualize productivity patterns
+- 🎯 Track work sessions and identify distraction patterns
+- ⚡ Built with React & Tailwind CSS for a swift, responsive experience
+
+**Impact:** Helps users understand their work habits and optimize their focus time through data-driven insights.
+
+---
+
 ### 📊 Impact Highlights
 
 ```
