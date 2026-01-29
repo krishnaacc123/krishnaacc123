@@ -84,7 +84,7 @@ const skills = {
 
 ### 🎨 Featured Projects
 
-#### **[WorkSpan](https://workspan.netlify.app/)** - Focus Time Tracker
+#### **[GetMyTimeBack](https://getmytimeback.netlify.app/)** - Focus Time Tracker
 A minimalist productivity app with a sleek retro UI that helps you track and analyze your work focus sessions. **Vibe-coded** for a rapid, creative build experience.
 
 **Key Features:**
